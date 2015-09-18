@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # @Author: jlmarks
 # @Date:   2015-09-14 21:45:28
-# @Last Modified 2015-09-15
-# @Last Modified time: 2015-09-15 03:18:27
+# @Last Modified 2015-09-17
+# @Last Modified time: 2015-09-17 18:51:02
 
 
 # dreamfusionsoft is the main package that I will build to make the importers job easier.
@@ -30,7 +30,7 @@ class MainController(object):
         print "Hello World"
 
 class interaction(object):
-    """This class is a class which will govern the different actions in a
+    """This class is a class which will govern the different actions in an
     """
 
 a=MainController()
